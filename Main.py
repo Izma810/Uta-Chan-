@@ -86,4 +86,4 @@ async def get_bank_data():
 
 
 
-client.run("ODA0NzQ4MzI2OTI2NDE4MDEw.YBQ2SA.b0-KvwGwQqI3Nxt79XidHWgHJ5c")
+client.run("Token")
